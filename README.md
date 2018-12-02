@@ -30,19 +30,38 @@ install.packages("ggthemes")
 ```
 
 Você também pode baixar o script diretamente deste repositório: através do [link]()
-## Bando de dados para exercícios
+
+# Banco de dados para exercícios
 
 Ao longo do curso iremos utilizar diversos bancos de dados.
 
-## 2018
-| Week | Date | Data | Source | Article
-| :---: | :---: | :--- | :--- | :---|
-| 1 | `2018-04-02` | [US Tuition Costs](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018-04-02) | [onlinembapage.com](https://onlinembapage.com/average-tuition-and-educational-attainment-in-the-united-states/) | [onlinembapage.com](https://onlinembapage.com/wp-content/uploads/2016/03/AverageTuition_Part1b.jpg) |
+## 1. Dados Simulados para Exercícios
+
+| N | Nome | Download | Raw 
+| :---: | :---: | :--- | :---|  
+| 1 | histograma | [dados]() | [link]() |
+| 2 | barras | [dados]() | [link]() |
+| 3 | boxplot | [dados]() | [link]() |
+| 4 | dispersão | [dados]() | [link]() |
+| 5 | linha | [dados]() | [link]() |
+
+*** 
+
+## 2. Dados reais sobre o mundo
+
+| N | Nome | Download | Raw | fonte 
+| :---: | :---: | :--- | :---|  :---|
+| 1 | altura1 | [dados]() | [link]() | [fonte]() |
+| 2 | altura2 | [dados]() | [link]() | [fonte]() |
+| 3 | wind | [dados]() | [link]() | [fonte]() |
+| 4 | malaria | [dados]() | [link]() | [fonte]() |
 
 ***  
 
-# Links Úteis
+# Links úteis
 
-[The R4DS Online Learning Community](https://www.rfordatasci.com)
+Alguns links importantes para aprofundamento ao longo da disciplina.
 
-[The R for Data Science textbook](http://r4ds.had.co.nz/)
+* [The R4DS Online Learning Community](https://www.rfordatasci.com)
+
+* [The R for Data Science textbook](http://r4ds.had.co.nz/)
