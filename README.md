@@ -52,10 +52,10 @@ Ao longo do curso iremos utilizar diversos bancos de dados.
 
 Alguns links importantes para aprofundamento ao longo da disciplina.
 
-* [exemplo1]()
+* [Manual do ggplot2](https://ggplot2.tidyverse.org)
 
-* [exemplo1]()
+* [TED Hans Rosling](https://www.ted.com/talks/hans_rosling_at_state#t-378798)
 
-* [exemplo1]()
+* [Gráficos enganosos](https://en.wikipedia.org/wiki/Misleading_graph)
 
-* [exemplo1]()
+> Novos links serão adicionados ao longo da disciplina.
