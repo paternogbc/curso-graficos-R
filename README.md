@@ -45,6 +45,7 @@ Ao longo do curso iremos utilizar diversos bancos de dados.
 | 4 | `Gráficos Básicos` | dispersão | [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/dispers%C3%A3o.csv) | 
 | 5 | `Gráficos Básicos` | linha | [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/linha.csv) |
 
+> Novos bancos de dados serão adicionados ao longo da disciplina
 
 *** 
 
