@@ -1,5 +1,4 @@
 ### Pacotes necessários para o curso de Gráficos Científicos
-
 ### Instale os pacotes necessários
 install.packages("tidyverse")
 install.packages("ggpubr")
