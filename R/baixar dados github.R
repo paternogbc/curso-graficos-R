@@ -1,13 +1,13 @@
 ### Como fazer download dos dados diretamente do github
-library(tidyverse)
 library(RCurl)
 
-### Baixar um banco de dados:
-# url <- "endereço do banco de dados"
+### Baixar um banco de dados
+# Insira o endereço do arquivo (raw) 
+# e <- "endereço do banco de dados"
 
-### Exemplo:
-e <- "https://raw.githubusercontent.com/paternogbc/curso-graficos-ufjf/master/dados/barras.csv"
-d <- read.csv(text = getURL(e))
+### Exemplo baixando o banco de dados boxplot:
+e <- getURL("https://raw.githubusercontent.com/paternogbc/curso-graficos-ufjf/master/dados/boxplot.csv")
+d <- read.csv(text = e)
 
 # Veja os dados
 head(d)

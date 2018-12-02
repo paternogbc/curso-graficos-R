@@ -29,7 +29,7 @@ install.packages("ggthemes")
 ### FIM-----
 ```
 
-Você também pode baixar o script diretamente deste repositório: através do [link]()
+Você também pode encontrar o script para instalar os pacotes através do [link](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/R/pacotes%20necessários.R)
 
 # Banco de dados para exercícios
 
@@ -37,31 +37,25 @@ Ao longo do curso iremos utilizar diversos bancos de dados.
 
 ## 1. Dados Simulados para Exercícios
 
-| N | Nome | Download | Raw 
-| :---: | :---: | :--- | :---|  
-| 1 | histograma | [dados]() | [link]() |
-| 2 | barras | [dados]() | [link]() |
-| 3 | boxplot | [dados]() | [link]() |
-| 4 | dispersão | [dados]() | [link]() |
-| 5 | linha | [dados]() | [link]() |
+| N |  Categoria | Nome | link |
+| :---: | :---: | :--- | :--- | 
+| 1 | `Gráficos Básicos` | histograma | [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/histograma.csv) | 
+| 2 | `Gráficos Básicos` | barras | [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/barras.csv) | 
+| 3 | `Gráficos Básicos` | boxplot | [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/boxplot.csv) | 
+| 4 | `Gráficos Básicos` | dispersão | [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/dispers%C3%A3o.csv) | 
+| 5 | `Gráficos Básicos` | linha | [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/linha.csv) |
+
 
 *** 
-
-## 2. Dados reais sobre o mundo
-
-| N | Nome | Download | Raw | fonte 
-| :---: | :---: | :--- | :---|  :---|
-| 1 | altura1 | [dados]() | [link]() | [fonte]() |
-| 2 | altura2 | [dados]() | [link]() | [fonte]() |
-| 3 | wind | [dados]() | [link]() | [fonte]() |
-| 4 | malaria | [dados]() | [link]() | [fonte]() |
-
-***  
 
 # Links úteis
 
 Alguns links importantes para aprofundamento ao longo da disciplina.
 
-* [The R4DS Online Learning Community](https://www.rfordatasci.com)
+* [exemplo1]()
 
-* [The R for Data Science textbook](http://r4ds.had.co.nz/)
+* [exemplo1]()
+
+* [exemplo1]()
+
+* [exemplo1]()
