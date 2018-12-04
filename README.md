@@ -49,8 +49,8 @@ Ao longo do curso iremos utilizar diversos bancos de dados.
 
 | N |  Categoria | Nome | descrição | link |
 | :---: | :---: | :--- | :--- | :--- | 
-| 1 | `Dados publicados` | vida | Expectativa de vida por país ao longo do tempo |  [dados]() | 
-| 2 | `Dados publicados` | wind | Capacidade de energia eólica instalada por país ao longo do tempo |  [dados]() | 
+| 1 | `Dados publicados` | vida | Expectativa de vida por país ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/vida.csv) | 
+| 2 | `Dados publicados` | wind | Capacidade de energia eólica instalada por país ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/wind.csv) | 
 
 > Novos bancos de dados serão adicionados ao longo da disciplina
 
