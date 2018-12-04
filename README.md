@@ -49,11 +49,12 @@ Ao longo do curso iremos utilizar diversos bancos de dados.
 
 | N |  Categoria | Nome | descrição | link | font |
 | :---: | :---: | :--- | :--- | :--- | :--- | 
-| 1 | `Dados publicados` | vida | Expectativa de vida por país ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/vida.csv) | [https://ourworldindata.org](https://ourworldindata.org) |
-| 2 | `Dados publicados` | wind | Capacidade de energia eólica instalada por país ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/wind.csv) |  [https://ourworldindata.org](https://ourworldindata.org) |
- 3 | `Dados publicados` | altura1 | Altura média (homens) por país em 1980 |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/altura1.csv) |  [https://ourworldindata.org](https://ourworldindata.org) |
- 4 | `Dados publicados` | altura2 | Altura média (homens) por país ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/altura2.csv) |  [https://ourworldindata.org](https://ourworldindata.org) |
-5 | `Dados publicados` | malaria | Morte por malária / 100.000 habitantes ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/malaria.csv) |  [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) |
+| 1 | `Explorar e manipular dados` | vida | Expectativa de vida por país ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/vida.csv) | [https://ourworldindata.org](https://ourworldindata.org) |
+| 2 | `Explorar e manipular dados` | wind | Capacidade de energia eólica instalada por país ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/wind.csv) |  [https://ourworldindata.org](https://ourworldindata.org) |
+ 3 | `Explorar e manipular dados` | altura1 | Altura média (homens) por país em 1980 |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/altura1.csv) |  [https://ourworldindata.org](https://ourworldindata.org) |
+ 4 | `Explorar e manipular dados` | altura2 | Altura média (homens) por país ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/altura2.csv) |  [https://ourworldindata.org](https://ourworldindata.org) |
+5 | `Explorar e manipular dados` | malaria | Morte por malária / 100.000 habitantes ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/malaria.csv) |  [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) |
+6 | `Explorar e manipular dados` | malaria_wide | Morte por malária / 100.000 habitantes ao longo do tempo (formato wide)|  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/malaria_wide.csv) |  [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) |
 
 > Novos bancos de dados serão adicionados ao longo da disciplina
 
