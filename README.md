@@ -55,6 +55,7 @@ Ao longo do curso iremos utilizar diversos bancos de dados.
  4 | `Explorar e manipular dados` | altura2 | Altura média (homens) por país ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/altura2.csv) |  [https://ourworldindata.org](https://ourworldindata.org) |
 5 | `Explorar e manipular dados` | malaria | Morte por malária / 100.000 habitantes ao longo do tempo |  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/malaria.csv) |  [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) |
 6 | `Explorar e manipular dados` | malaria_wide | Morte por malária / 100.000 habitantes ao longo do tempo (formato wide)|  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/malaria_wide.csv) |  [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) |
+7 | `Explorar e manipular dados` | gapminder | Indicadores sociais e econômicos do Mundo ao longo do tempo (pop = população, gdpPercap é o PIB per capita, etc)|  [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/gapminder.csv) |  [gapminder](https://www.gapminder.org) |
 
 > Novos bancos de dados serão adicionados ao longo da disciplina
 
