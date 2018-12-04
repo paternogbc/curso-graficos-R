@@ -45,6 +45,13 @@ Ao longo do curso iremos utilizar diversos bancos de dados.
 | 4 | `Gráficos Básicos` | dispersão | [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/dispers%C3%A3o.csv) | 
 | 5 | `Gráficos Básicos` | linha | [dados](https://github.com/paternogbc/curso-graficos-ufjf/blob/master/dados/linha.csv) |
 
+## 2. Dados publicados
+
+| N |  Categoria | Nome | descrição | link |
+| :---: | :---: | :--- | :--- | :--- | 
+| 1 | `Dados publicados` | vida | Expectativa de vida por país ao longo do tempo |  [dados]() | 
+| 2 | `Dados publicados` | wind | Capacidade de energia eólica instalada por país ao longo do tempo |  [dados]() | 
+
 > Novos bancos de dados serão adicionados ao longo da disciplina
 
 *** 
